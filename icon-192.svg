@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="32" fill="#1a3a2a"/>
+  <rect x="40" y="30" width="112" height="132" rx="8" fill="#f9f5ed" opacity="0.95"/>
+  <rect x="40" y="30" width="28" height="132" rx="8" fill="#b8963e" opacity="0.25"/>
+  <line x1="68" y1="50" x2="136" y2="50" stroke="#d4c4a0" stroke-width="2"/>
+  <line x1="68" y1="62" x2="136" y2="62" stroke="#d4c4a0" stroke-width="2"/>
+  <line x1="68" y1="74" x2="120" y2="74" stroke="#d4c4a0" stroke-width="2"/>
+  <line x1="68" y1="92" x2="136" y2="92" stroke="#d4c4a0" stroke-width="2"/>
+  <line x1="68" y1="104" x2="136" y2="104" stroke="#d4c4a0" stroke-width="2"/>
+  <line x1="68" y1="116" x2="110" y2="116" stroke="#d4c4a0" stroke-width="2"/>
+  <line x1="68" y1="134" x2="136" y2="134" stroke="#d4c4a0" stroke-width="2"/>
+  <line x1="68" y1="146" x2="126" y2="146" stroke="#d4c4a0" stroke-width="2"/>
+  <rect x="46" y="38" width="16" height="2" rx="1" fill="#b8963e" opacity="0.5"/>
+  <rect x="46" y="44" width="12" height="2" rx="1" fill="#b8963e" opacity="0.5"/>
+  <rect x="46" y="50" width="16" height="2" rx="1" fill="#b8963e" opacity="0.5"/>
+  <text x="96" y="185" text-anchor="middle" font-family="Georgia,serif" font-size="14" font-weight="bold" fill="#b8963e">52 SEMANAS</text>
+</svg>
